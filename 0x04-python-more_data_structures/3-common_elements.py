@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-def number_keys(my_dict):
-    return len(my_dict.keys())
+def common_elements(set_1, set_2):
+    return set_1 & set_2
